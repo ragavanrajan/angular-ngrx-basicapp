@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Live Demon on StackBlitz
 
-https://stackblitz.com/edit/angular-ngrx-basicapp 
+https://angular-ngrx-basicapp.stackblitz.io
 
 ## Development server
 
